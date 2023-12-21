@@ -1,4 +1,14 @@
-.title {
-    color: green;
+.name {
+    background-color: yellow;
+    width: 280px;
+    border-radius: 6px;
+    margin: 0 auto 20px auto;
+    padding: 5px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 25;
+    cursor: pointer;
 }
+
+
 

@@ -1,5 +1,7 @@
+import styles from './styles.module.css'
+
 export const Pokemon = ( {name = 'Pikachu'} ) => (
-   <h2>Nome do Pokemon: {name}</h2>
+   <h2 className={styles.name}>{name}</h2>
   )
   
 
